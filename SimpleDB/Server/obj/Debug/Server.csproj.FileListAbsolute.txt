@@ -1,0 +1,9 @@
+C:\Users\Екатерина\source\repos\SimpleDB\Server\bin\Debug\Server.exe.config
+C:\Users\Екатерина\source\repos\SimpleDB\Server\bin\Debug\Server.exe
+C:\Users\Екатерина\source\repos\SimpleDB\Server\bin\Debug\Server.pdb
+C:\Users\Екатерина\source\repos\SimpleDB\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Екатерина\source\repos\SimpleDB\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\source\repos\SimpleDB\Server\obj\Debug\Server.exe
+C:\Users\Екатерина\source\repos\SimpleDB\Server\obj\Debug\Server.pdb
+C:\Users\Екатерина\source\repos\SimpleDB\Server\bin\Debug\Database1.mdf
+C:\Users\Екатерина\source\repos\SimpleDB\Server\bin\Debug\Database1_log.ldf
